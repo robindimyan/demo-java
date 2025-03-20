@@ -1,3 +1,8 @@
+[default]
+aws_access_key=AKIA60DU5DHTXRVAU3ET
+aws_secret_access_key=vXTImIP/3szh5ieZBxvunJGgCvlYcizThgjSwqLy
+region=us-east-2
+
 # Code Scanning Java Tutorial
 
 Welcome to the Code Scanning Java Tutorial! This tutorial will take you through how to set up Github Advanced Security: Code Scanning as well as interpret results that it may find. The following repository contains SQL injection vulnerability for demonstration purpose.
